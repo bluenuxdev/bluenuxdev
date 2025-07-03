@@ -1,47 +1,22 @@
-<h1 align="center">🧠 Bluenux@kali:~$</h1>
-
+<h1 align="center">👾 Bluenux@kali:~$</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=440&lines=Ethical+hacker+in+training...;HTB+CPTS+Candidate+%F0%9F%94%91;Cybersecurity+%C3%97+AI+Engineer+%E2%9A%94%EF%B8%8F;Learning+Japanese+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=0AFF9B&center=true&vCenter=true&width=435&lines=./booting...;./scanning...;./deploying...;#root+access+initiated" alt="Typing SVG">
 </p>
 
 ---
 
-> *"Control is an illusion. We are all just nodes on a compromised network."*  
-> — **Mr. Robot**
+## 📊 Skills Progress
+
+Linux: ![](https://geps.dev/progress/100?successColor=00FF00&warningColor=FFFF00&dangerColor=FF0000)  
+Networking: ![](https://geps.dev/progress/80?successColor=00FF00&warningColor=FFFF00&dangerColor=FF0000)  
+Web Exploits: ![](https://geps.dev/progress/70?successColor=00FF00&warningColor=FFFF00&dangerColor=FF0000)  
+Python/Bash: ![](https://geps.dev/progress/60?successColor=00FF00&warningColor=FFFF00&dangerColor=FF0000)
 
 ---
 
-## 👨‍💻 About Me
+## 📊 GitHub Stats
 
-```bash
-┌──(bluenux㉿kali)-[~/projects]
-└─$ whoami
-🎓 High school student passionate about cybersecurity, AI, and ethical hacking
-
-🔐 Training for HTB CPTS certification
-
-🌐 Building my portfolio on bluenux.com
-
-🧠 Dreaming of launching a Cyber × AI startup in Asia 🇯🇵🇰🇷
-
-🚀 Currently documenting my journey on GitHub:
-👉 bluenux-cyber-juillet2025
-
-💻 Tech Stack & Tools
-
-
-
-
-
-
-🧾 Contact
-bash
-Copier
-Modifier
-┌──(bluenux㉿kali)-[~/contact]
-└─$ echo "contact@bluenux.com"
-📫 bluenux.com
-🐙 github.com/bluenuxdev
-
-⚠️ “No technology that's connected to the Internet is unhackable.”
-— Root access granted. Loading exploits…
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=bluenuxdev&show_icons=true&theme=radical" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=bluenuxdev&theme=radical" />
+</p>
