@@ -28,7 +28,7 @@
 
 ## 🧠 About
 
-> “Control is an illusion. We are all just nodes on a compromised network.” — *Mr. Robot*
+> "Control is an illusion. We are all just nodes on a compromised network." — *Mr. Robot*
 
 - 🎓 **Student** (France)  
 - 🛡️ **HTB CPTS Candidate**  
