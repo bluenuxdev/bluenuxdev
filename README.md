@@ -2,6 +2,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=440&lines=Ethical+hacker+in+training...;HTB+CPTS+Candidate+%F0%9F%94%91;Cybersecurity+%C3%97+AI+Engineer+%E2%9A%94%EF%B8%8F;Learning+Japanese+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG" />
 </p>
 
+<p align="right">
+  <img src="https://media.tenor.com/rz6HPAb5wCAAAAAj/internet-dial-up.gif" width="220" alt="Internet Pixel Art GIF"/>
+</p>
+
 ---
 
 ## 🛠️ Languages and Tools
@@ -53,8 +57,4 @@
   <a href="https://discord.com/users/799730579594674226"><img src="https://img.shields.io/badge/-@bluenux-black?style=for-the-badge&logo=discord&logoColor=red"></a>
   <a href="https://bluenux.com"><img src="https://img.shields.io/badge/-bluenux.com-black?style=for-the-badge&logo=firefoxbrowser&logoColor=orange"></a>
   <a href="https://github.com/bluenuxdev"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github"></a>
-</p>
-
-<p align="right">
-  <img src="https://media.tenor.com/rz6HPAb5wCAAAAAj/internet-dial-up.gif" width="220" alt="Internet Pixel Art GIF"/>
 </p>
