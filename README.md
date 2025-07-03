@@ -22,16 +22,6 @@
 
 ---
 
-## 🔥 My Stats
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=bluenuxdev&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=bluenuxdev&theme=radical&hide_border=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluenuxdev&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
-</p>
-
----
-
 ## 🧠 About
 
 > “Control is an illusion. We are all just nodes on a compromised network.” — *Mr. Robot*
