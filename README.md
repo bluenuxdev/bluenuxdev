@@ -36,16 +36,13 @@
 
 > “Control is an illusion. We are all just nodes on a compromised network.” — *Mr. Robot*
 
-- 🎓 **Student** (Lycée, France)  
+- 🎓 **Student** (France)  
 - 🛡️ **HTB CPTS Candidate**  
-- 💻 Building [bluenux.com](https://bluenux.com)  
+- 💻 Building Portfolio [bluenux.com](https://bluenux.com)  
 - 🤖 **Cyber × AI** future engineer  
 - 🇯🇵 Learning Japanese  
-- 📫 contact@bluenux.com
 
 ---
-
-## 📊 Progress
 
 ## 📊 Skills Progress
 
