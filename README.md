@@ -1,6 +1,6 @@
 <!-- Typing animation en haut -->
 <p align="center">
-  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=~/HTB+CPTS+Candidate...;~/Cyber+%C3%97+AI+engineer+in+progress...;~/Language+module:+Japanese+🇯🇵](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=~/HTB+CPTS+Candidate...;~/Cyber+%C3%97+AI+engineer+in+progress...;~/Language+module:+Japanese+🇯🇵)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=440&lines=Ethical+hacker+in+training...;HTB+CPTS+Candidate+%F0%9F%94%91;Cybersecurity+%C3%97+AI+Engineer+%E2%9A%94%EF%B8%8F;Learning+Japanese+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG" />
 </p>
 
 ---
