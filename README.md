@@ -1,7 +1,14 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=440&lines=Ethical+hacker+in+training...;HTB+CPTS+Candidate+%F0%9F%94%91;Cybersecurity+%C3%97+AI+Engineer+%E2%9A%94%EF%B8%8F;Learning+Japanese+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG" />
-  <br>
-  <img src="https://media.tenor.com/rz6HPAb5wCAAAAAj/internet-dial-up.gif" width="140" alt="Internet Pixel Art GIF"/>
+  <table>
+    <tr>
+      <td>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=440&lines=Ethical+hacker+in+training...;HTB+CPTS+Candidate+%F0%9F%94%91;Cybersecurity+%C3%97+AI+Engineer+%E2%9A%94%EF%B8%8F;Learning+Japanese+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG" />
+      </td>
+      <td>
+        <img src="https://media.tenor.com/rz6HPAb5wCAAAAAj/internet-dial-up.gif" width="140" alt="Internet Pixel Art GIF"/>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
