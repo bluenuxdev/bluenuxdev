@@ -49,17 +49,17 @@
 
 ## 📊 Skills Progress
 
-**Linux**  
+**HTML / CSS**  
 ![](https://geps.dev/progress/100?successColor=00FF00&warningColor=FFFF00&dangerColor=FF0000)
 
-**Networking**  
+**Python**  
 ![](https://geps.dev/progress/80?successColor=00FF00&warningColor=FFFF00&dangerColor=FF0000)
 
-**Web Exploits**  
-![](https://geps.dev/progress/70?successColor=00FF00&warningColor=FFFF00&dangerColor=FF0000)
+**Network**  
+![](https://geps.dev/progress/50?successColor=00FF00&warningColor=FFFF00&dangerColor=FF0000)
 
-**Python/Bash**  
-![](https://geps.dev/progress/60?successColor=00FF00&warningColor=FFFF00&dangerColor=FF0000)
+**HTB Academy (starting...)**  
+![](https://geps.dev/progress/10?successColor=00FF00&warningColor=FFFF00&dangerColor=FF0000)
 
 ---
 
